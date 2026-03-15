@@ -1,1 +1,1 @@
-Primeiro repositório do curso de git-github com oa Professor Matheus Battisti;
+Primeiro repositório do curso de git-github com o Professor Matheus Battisti;
