@@ -1,1 +1,2 @@
 Testando atualização de arquivo. 
+v1.0

@@ -1,1 +1,2 @@
 Testando atualização do clone.
+v1.1
